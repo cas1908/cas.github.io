@@ -1,2 +1,3 @@
 # cas1908.github.io
-Exile Lifestyle
+The name is CAS, I enjoy sarcasm.
+I am trying to host my first site on github pages.
